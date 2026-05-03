@@ -4,7 +4,7 @@ A free, open-source macOS desktop widget for live sports scores.
 
 > NFL · NBA · MLB · NHL · Premier League — refreshed every 5 minutes when games are live.
 
-**Site:** [scores.pages.dev](https://scores.pages.dev) · **Tip jar:** [Cash App $Dryeetsolutions](https://cash.app/$Dryeetsolutions) · **Sister widgets:** [News](https://github.com/bendawg2010/NewsWidgets) · [F1 Live](https://github.com/bendawg2010/F1Live) · [Sports News](https://github.com/bendawg2010/SportsNews)
+**Site:** [scorewidget.pages.dev](https://scorewidget.pages.dev) · **Tip jar:** [Cash App $Dryeetsolutions](https://cash.app/$Dryeetsolutions) · **Sister widgets:** [News](https://github.com/bendawg2010/NewsWidgets) · [F1 Live](https://github.com/bendawg2010/F1Live) · [Sports News](https://github.com/bendawg2010/SportsNews)
 
 ## Install
 
